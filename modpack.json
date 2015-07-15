@@ -1,0 +1,14 @@
+{
+  "name": "Vanilla Plus Package",
+  "title": "Vanilla+",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "servers.dat",
+      "options.txt"
+    ]
+  }
+}
